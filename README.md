@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Alfredo Romero Morgen Wiria - @alfredomorgen
+
+Frontend Tech Stack:
+* TypeScript/JavaScript
+* React
+* Redux
+* NodeJS
+* Webpack
+
+Backend Tech Stack:
+* Java 8
+* PostgreSQL
