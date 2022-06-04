@@ -25,5 +25,7 @@ Frontend Tech Stack:
 * Webpack
 
 Backend Tech Stack:
-* Java 8
+* Java 11
 * PostgreSQL
+* Terraform
+* AWS
