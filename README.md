@@ -18,14 +18,18 @@ Here are some ideas to get you started:
 ## Alfredo Romero Morgen Wiria - @alfredomorgen
 
 Frontend Tech Stack:
-* TypeScript/JavaScript
-* React
-* Redux
-* NodeJS
-* Webpack
+* React / NextJS
+* TypeScript / JavaScript
+* Vite / Webpack
 
 Backend Tech Stack:
-* Java 11
-* PostgreSQL
-* Terraform
+* Golang
+* Java
+* NodeJS
+* Ruby on Rails
+* SQL (Microsoft SQL / MySQL / PostgreSQL)
+
+Infra:
 * AWS
+* GCP
+* Terraform
